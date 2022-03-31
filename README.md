@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">Vetur</h1>
+  <h1 align="center">Vetura</h1>
 </p>
 
 <p align="center">
